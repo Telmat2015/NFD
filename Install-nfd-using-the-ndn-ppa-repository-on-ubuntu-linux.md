@@ -70,3 +70,11 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
  <b>Prerequisites</b>
  <li>Install the ndn-cxx library and its requirements</li>
  <li>pkg-config</li>
+
+ <pre>
+ sudo apt-get install pkg-config
+ </pre>
+ <pre>
+ bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install pkg-config</b>
+ </pre>
+ 
