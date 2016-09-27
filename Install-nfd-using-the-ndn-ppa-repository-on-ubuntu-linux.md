@@ -60,7 +60,7 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
     Download NFD  : git clone --recursive https://github.com/named-data/NFD
   </pre>
 
-<pre>
+  <pre>
   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>git clone https://github.com/named-data/ndn-cxx</b>
   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>git clone --recursive https://github.com/named-data/NFD</b>
   </pre>
