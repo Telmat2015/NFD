@@ -66,3 +66,7 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
   </pre>
  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-30-21.png)
  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-42-42.png)
+ 
+ <b>Prerequisites</b>
+ <li>Install the ndn-cxx library and its requirements</li>
+ <li>pkg-config</li>
