@@ -88,3 +88,11 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
    <pre>
    bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install doxygen graphviz python-sphinx</b>
    </pre>
+ 
+ <li><b>Build </b>The following basic commands should be used to build NFD on Ubuntu:</li>
+
+ <pre>
+  ./waf configure
+  ./waf
+  sudo ./waf install
+ </pre>
