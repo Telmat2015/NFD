@@ -47,4 +47,4 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install nfd</b>
   </pre>
   
-    ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-11-29.png)
+  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-11-29.png)
