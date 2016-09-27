@@ -100,17 +100,15 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
  
  
  <li><b>Build </b>The following basic commands should be used to build NFD on Ubuntu:</li>
+ To build in a terminal, change directory to the <b>ndn-cxx</b> root. Enter:
+
+
  <pre>
   ./waf configure
   ./waf
   sudo ./waf install
  </pre>
 
- <pre>
-  bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>./waf configure</b>
- bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>./waf</b>
- bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>sudo ./waf install</b>
-</pre>
 If you have installed ndn-cxx library and/or other dependencies into a non-standard paths, you may need to modify <b>PKG_CONFIG_PATH</b> environment variable before running ./waf configure. For example,
 
 <pre>
@@ -120,9 +118,27 @@ export PKG_CONFIG_PATH=/custom/lib/pkgconfig:$PKG_CONFIG_PATH
 bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>export PKG_CONFIG_PATH=/custom/lib/pkgconfig:$PKG_CONFIG_PATH</b>
 </pre>
 
+ <pre>
+ bertopeng17@bertopeng17-ThinkPad-T520:~/ndn-cxx$ <b>./waf configure</b>
+</pre>
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-47-24.png)
 
-![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
-![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
-![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
+<pre>
+ bertopeng17@bertopeng17-ThinkPad-T520:~/ndn-cxx$ <b>./waf</b>
+</pre>
+
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-47-56.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-49-44.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-50-15.png)
+
+
+
+
+<pre>
+ bertopeng17@bertopeng17-ThinkPad-T520:~/ndn-cxx$ <b>sudo ./waf install</b>
+</pre>
+
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-55-52.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-56-17.png)
 
 
