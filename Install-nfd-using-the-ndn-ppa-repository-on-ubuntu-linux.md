@@ -68,23 +68,23 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-42-42.png)
  
  <li><b>Prerequisites </b>Install the ndn-cxx library and its requirements</li>
-  -  pkg-config
-  -  libpcap
-  -  doxygen, graphviz, python-sphinx
+    -  pkg-config
+    -  libpcap
+    -  doxygen, graphviz, python-sphinx
 
- <pre>
- sudo apt-get install pkg-config
- sudo apt-get install libpcap
- sudo apt-get install doxygen
- sudo apt-get install graphviz
- sudo apt-get install python-sphinx
+   <pre>
+   sudo apt-get install pkg-config
+   sudo apt-get install libpcap
+   sudo apt-get install doxygen
+   sudo apt-get install graphviz
+   sudo apt-get install python-sphinx
 
- </pre>
- <pre>
- bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install pkg-config</b>
- bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install libpcap</b>
- </pre>
+   </pre>
+   <pre>
+   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install pkg-config</b>
+   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install libpcap</b>
+   </pre>
  
- <pre>
- bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install doxygen graphviz python-sphinx</b>
- </pre>
+   <pre>
+   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install doxygen graphviz python-sphinx</b>
+   </pre>
