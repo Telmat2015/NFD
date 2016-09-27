@@ -14,3 +14,7 @@ sudo apt-get install software-properties-common
 <b>Adding NDN PPA</b><p>
 After installing <b>add-apt-repository</b>, run the following command to add [[NDN PPA repository.] ](https://launchpad.net/~named-data/+archive/ppa)
 
+<pre>
+sudo add-apt-repository ppa:named-data/ppa
+sudo apt-get update
+</pre>
