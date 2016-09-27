@@ -8,7 +8,9 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
 To simplify adding new PPA repositories, Ubuntu provides add-apt-repository tool, which is not installed by default on some systems.
 
 <pre>
-
-<b>sudo apt-get install software-properties-common</b>
-
+sudo apt-get install software-properties-common
 </pre>
+
+<b>Adding NDN PPA</b><p>
+After installing <b>add-apt-repository</b>, run the following command to add NDN PPA repository.
+
