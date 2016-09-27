@@ -27,3 +27,17 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
   sudo add-apt-repository ppa:named-data/ppa
   sudo apt-get update
   </pre>
+  
+  <pre>
+  bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo add-apt-repository ppa:named-data/ppa</b>
+  </pre>
+  
+  <pre>
+  bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get update</b>
+
+  </pre>
+
+
+  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-05-10.png)
+  ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-06-12.png)
+
