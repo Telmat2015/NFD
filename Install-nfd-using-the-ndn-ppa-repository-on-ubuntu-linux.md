@@ -11,7 +11,15 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
   <pre>
   sudo apt-get install software-properties-common
   </pre>
+  <pre>
+  bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install software-properties-common</b>
+  </pre>
+  
+  ![alt tag](https://github.com/Telmat2015/NFD/tree/master/image)
 
+  
+  
+  
 <li><b>Adding NDN PPA</b><p></li>
   After installing <b>add-apt-repository</b>, run the following command to add [[NDN PPA repository.] ](https://launchpad.net/~named-data/+archive/ppa)
 
