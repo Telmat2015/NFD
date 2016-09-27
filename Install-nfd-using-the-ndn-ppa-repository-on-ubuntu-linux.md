@@ -64,8 +64,8 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>git clone https://github.com/named-data/ndn-cxx</b>
   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>git clone --recursive https://github.com/named-data/NFD</b>
   </pre>
- ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-30-21.png)
- ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-42-42.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-30-21.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-42-42.png)
  
  <li><b>Prerequisites </b>Install the ndn-cxx library and its requirements</li>
     -  pkg-config
@@ -89,7 +89,7 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
    bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install doxygen graphviz python-sphinx</b>
    </pre>
  
-   ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-13-50.png)
+ ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-13-50.png)
 
  
  
