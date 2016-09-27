@@ -107,7 +107,22 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
  </pre>
 
  <pre>
- bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>./waf configure</b>
+  bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>./waf configure</b>
+ bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>./waf</b>
+ bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>sudo ./waf install</b>
+</pre>
+If you have installed ndn-cxx library and/or other dependencies into a non-standard paths, you may need to modify <b>PKG_CONFIG_PATH</b> environment variable before running ./waf configure. For example,
+
+<pre>
+export PKG_CONFIG_PATH=/custom/lib/pkgconfig:$PKG_CONFIG_PATH
+</pre>
+<pre>
+bertopeng17@bertopeng17-ThinkPad-T520:~/NFD$ <b>export PKG_CONFIG_PATH=/custom/lib/pkgconfig:$PKG_CONFIG_PATH</b>
 </pre>
 
+
 ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
+![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-17-02.png)
+
+
