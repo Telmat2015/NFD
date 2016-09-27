@@ -59,3 +59,8 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
     Download ndn-cxx : git clone https://github.com/named-data/ndn-cxx
     Download NFD  : git clone --recursive https://github.com/named-data/NFD
   </pre>
+
+<pre>
+  bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>git clone https://github.com/named-data/ndn-cxx</b>
+  </pre>
+    ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2022-30-21.png)
