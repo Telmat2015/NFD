@@ -90,7 +90,7 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
    </pre>
  
  <li><b>Build </b>The following basic commands should be used to build NFD on Ubuntu:</li>
-
+  The following basic commands should be used to build NFD on Ubuntu:
  <pre>
   ./waf configure
   ./waf
