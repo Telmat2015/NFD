@@ -82,15 +82,19 @@ NFD binaries and related tools for Ubuntu 14.04 and 16.04 can be installed using
    </pre>
    <pre>
    bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install pkg-config</b>
-   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install libpcap</b>
+   bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install libpcap-dev</b>
    </pre>
  
    <pre>
    bertopeng17@bertopeng17-ThinkPad-T520:~$ <b>sudo apt-get install doxygen graphviz python-sphinx</b>
    </pre>
  
+   ![alt tag](https://github.com/Telmat2015/NFD/blob/master/image/Screenshot%20from%202016-09-27%2023-13-50.png)
+
+ 
+ 
+ 
  <li><b>Build </b>The following basic commands should be used to build NFD on Ubuntu:</li>
-  The following basic commands should be used to build NFD on Ubuntu:
  <pre>
   ./waf configure
   ./waf
